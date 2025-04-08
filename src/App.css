@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.image{
+  border: 1px solid black;
+  background: linear-gradient(lightpink, crimson);
+  margin: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.4rem;
+}
+
+img{
+  margin: 1.4rem;
+}
